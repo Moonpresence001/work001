@@ -1,1 +1,2 @@
-print("test001")
+class Person:
+    pass
